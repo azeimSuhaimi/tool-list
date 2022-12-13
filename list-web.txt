@@ -22,3 +22,86 @@ https://bennettfeely.com/clippy/
 https://unused-css.com/tools/clip-path-generator
 https://cssgrid-generator.netlify.app/
 https://www.cssportal.com/css-flexbox-generator/
+
+
+
+
+
+INPIRE TO WEB
+
+siteinspire
+https://www.siteinspire.com/
+
+dribbble
+https://dribbble.com/
+
+awwwards
+https://www.awwwards.com/
+
+FRAMEWORK
+
+bootstrap
+
+vuetify
+
+tailwind
+
+materialize css
+
+
+
+DOCUMENTATION
+
+devhints
+
+devdocs
+https://devdocs.io/css/flex
+
+IMAGES
+
+remove bg
+https://www.remove.bg/
+
+squoosh
+
+unplash
+
+pexels
+
+unDdraw
+
+usesmash
+
+google fonts
+
+flaticon
+
+figma
+
+coolors
+
+color adobe
+
+colorhunt
+
+CODE EDITOR
+
+replit
+
+pastebin
+
+codepen
+
+codewar
+
+PAYMENT GETEWAY
+
+billplz
+
+stripe
+
+toyyibpay
+
+paypal
+
+ripple
