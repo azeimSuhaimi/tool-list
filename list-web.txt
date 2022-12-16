@@ -22,7 +22,13 @@ https://bennettfeely.com/clippy/
 https://unused-css.com/tools/clip-path-generator
 https://cssgrid-generator.netlify.app/
 https://www.cssportal.com/css-flexbox-generator/
+https://lokeshdhakar.com/projects/lightbox2/#getting-started
 
+
+https://enjoycss.com/
+https://www.cssmatic.com/box-shadow
+https://www.bestcssbuttongenerator.com/#/34
+https://webcode.tools/generators/css/display
 
 
 
